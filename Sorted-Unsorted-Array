@@ -1,0 +1,5 @@
+This program creates 2 arrays with 10 capacity and random size.
+One of the arrays is sorted from smaller to bigger number.
+Numbers will be included arrays randomly.
+End of the program it shows both of the array elements, capacity and sizes.
+This is the first program that I created by using makefile and GNU tools.
